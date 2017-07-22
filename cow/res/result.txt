@@ -1,0 +1,425 @@
+===========file_64M=========
+root@172.17.0.3: real	0m2.391s
+root@172.17.0.4: real	0m2.079s
+root@172.17.0.2: real	0m2.391s
+
+root@172.17.0.3: real	0m2.389s
+root@172.17.0.4: real	0m2.178s
+root@172.17.0.2: real	0m2.388s
+
+root@172.17.0.2: real	0m2.344s
+root@172.17.0.4: real	0m2.041s
+root@172.17.0.3: real	0m2.343s
+
+root@172.17.0.2: real	0m2.467s
+root@172.17.0.3: real	0m2.467s
+root@172.17.0.4: real	0m2.165s
+
+root@172.17.0.4: real	0m2.301s
+root@172.17.0.3: real	0m2.394s
+root@172.17.0.2: real	0m2.395s
+
+root@172.17.0.3: real	0m2.384s
+root@172.17.0.4: real	0m2.072s
+root@172.17.0.2: real	0m2.384s
+
+root@172.17.0.3: real	0m2.406s
+root@172.17.0.2: real	0m2.405s
+root@172.17.0.4: real	0m2.179s
+
+root@172.17.0.3: real	0m2.536s
+root@172.17.0.2: real	0m2.536s
+root@172.17.0.4: real	0m2.251s
+
+root@172.17.0.2: real	0m2.432s
+root@172.17.0.3: real	0m2.432s
+root@172.17.0.4: real	0m2.227s
+
+root@172.17.0.3: real	0m2.421s
+root@172.17.0.2: real	0m2.421s
+root@172.17.0.4: real	0m2.260s
+
+root@172.17.0.3: real	0m2.434s
+root@172.17.0.2: real	0m2.434s
+root@172.17.0.4: real	0m2.197s
+
+root@172.17.0.4: real	0m2.112s
+root@172.17.0.2: real	0m2.381s
+root@172.17.0.3: real	0m2.381s
+
+root@172.17.0.2: real	0m2.394s
+root@172.17.0.3: real	0m2.394s
+root@172.17.0.4: real	0m2.210s
+
+root@172.17.0.4: real	0m2.261s
+root@172.17.0.2: real	0m2.423s
+root@172.17.0.3: real	0m2.423s
+
+root@172.17.0.4: real	0m2.342s
+root@172.17.0.3: real	0m2.480s
+root@172.17.0.2: real	0m2.480s
+
+root@172.17.0.4: real	0m2.126s
+root@172.17.0.2: real	0m2.457s
+root@172.17.0.3: real	0m2.457s
+
+root@172.17.0.4: real	0m2.091s
+root@172.17.0.2: real	0m2.319s
+root@172.17.0.3: real	0m2.319s
+
+root@172.17.0.3: real	0m2.495s
+root@172.17.0.4: real	0m2.258s
+root@172.17.0.2: real	0m2.495s
+
+root@172.17.0.4: real	0m2.395s
+root@172.17.0.2: real	0m2.476s
+root@172.17.0.3: real	0m2.476s
+
+root@172.17.0.4: real	0m2.199s
+root@172.17.0.3: real	0m2.505s
+root@172.17.0.2: real	0m2.505s
+
+
+
+
+
+===========file_128M=========
+root@172.17.0.2: real	0m4.976s
+root@172.17.0.4: real	0m4.756s
+root@172.17.0.3: real	0m4.976s
+
+root@172.17.0.4: real	0m4.863s
+root@172.17.0.3: real	0m5.099s
+root@172.17.0.2: real	0m5.099s
+
+root@172.17.0.2: real	0m5.078s
+root@172.17.0.3: real	0m5.078s
+root@172.17.0.4: real	0m4.901s
+
+root@172.17.0.3: real	0m4.990s
+root@172.17.0.4: real	0m4.991s
+root@172.17.0.2: real	0m4.991s
+
+root@172.17.0.3: real	0m4.905s
+root@172.17.0.4: real	0m4.795s
+root@172.17.0.2: real	0m4.905s
+
+root@172.17.0.3: real	0m4.926s
+root@172.17.0.2: real	0m4.926s
+root@172.17.0.4: real	0m4.584s
+
+root@172.17.0.2: real	0m4.997s
+root@172.17.0.4: real	0m4.885s
+root@172.17.0.3: real	0m4.998s
+
+root@172.17.0.3: real	0m4.869s
+root@172.17.0.2: real	0m4.869s
+root@172.17.0.4: real	0m4.602s
+
+root@172.17.0.4: real	0m4.900s
+root@172.17.0.2: real	0m4.900s
+root@172.17.0.3: real	0m4.900s
+
+root@172.17.0.3: real	0m4.913s
+root@172.17.0.2: real	0m4.913s
+root@172.17.0.4: real	0m4.752s
+
+root@172.17.0.3: real	0m4.809s
+root@172.17.0.2: real	0m4.809s
+root@172.17.0.4: real	0m4.794s
+
+root@172.17.0.4: real	0m4.922s
+root@172.17.0.3: real	0m4.922s
+root@172.17.0.2: real	0m4.922s
+
+root@172.17.0.4: real	0m4.922s
+root@172.17.0.3: real	0m4.936s
+root@172.17.0.2: real	0m4.936s
+
+root@172.17.0.4: real	0m4.710s
+root@172.17.0.3: real	0m4.999s
+root@172.17.0.2: real	0m4.998s
+
+root@172.17.0.4: real	0m4.867s
+root@172.17.0.2: real	0m5.053s
+root@172.17.0.3: real	0m5.053s
+
+root@172.17.0.3: real	0m4.983s
+root@172.17.0.2: real	0m4.983s
+root@172.17.0.4: real	0m4.983s
+
+root@172.17.0.4: real	0m4.862s
+root@172.17.0.3: real	0m5.089s
+root@172.17.0.2: real	0m5.089s
+
+root@172.17.0.4: real	0m4.515s
+root@172.17.0.2: real	0m4.944s
+root@172.17.0.3: real	0m4.944s
+
+root@172.17.0.3: real	0m4.907s
+root@172.17.0.2: real	0m4.906s
+root@172.17.0.4: real	0m4.693s
+
+root@172.17.0.3: real	0m5.062s
+root@172.17.0.2: real	0m5.062s
+root@172.17.0.4: real	0m4.697s
+
+
+
+
+
+===========file_256M=========
+root@172.17.0.2: real	0m10.292s
+root@172.17.0.3: real	0m10.292s
+root@172.17.0.4: real	0m10.292s
+
+root@172.17.0.4: real	0m9.821s
+root@172.17.0.3: real	0m10.164s
+root@172.17.0.2: real	0m10.164s
+
+root@172.17.0.3: real	0m10.154s
+root@172.17.0.2: real	0m10.154s
+root@172.17.0.4: real	0m9.946s
+
+root@172.17.0.4: real	0m9.834s
+root@172.17.0.2: real	0m9.967s
+root@172.17.0.3: real	0m9.967s
+
+root@172.17.0.3: real	0m9.973s
+root@172.17.0.4: real	0m9.973s
+root@172.17.0.2: real	0m9.973s
+
+root@172.17.0.3: real	0m10.054s
+root@172.17.0.2: real	0m10.054s
+root@172.17.0.4: real	0m9.800s
+
+root@172.17.0.3: real	0m9.784s
+root@172.17.0.4: real	0m9.496s
+root@172.17.0.2: real	0m9.784s
+
+root@172.17.0.3: real	0m9.640s
+root@172.17.0.2: real	0m9.640s
+root@172.17.0.4: real	0m9.640s
+
+root@172.17.0.2: real	0m9.663s
+root@172.17.0.4: real	0m9.445s
+root@172.17.0.3: real	0m9.663s
+
+root@172.17.0.4: real	0m9.494s
+root@172.17.0.2: real	0m9.794s
+root@172.17.0.3: real	0m9.794s
+
+root@172.17.0.4: real	0m9.375s
+root@172.17.0.2: real	0m9.533s
+root@172.17.0.3: real	0m9.533s
+
+root@172.17.0.3: real	0m9.715s
+root@172.17.0.2: real	0m9.715s
+root@172.17.0.4: real	0m9.715s
+
+root@172.17.0.4: real	0m9.737s
+root@172.17.0.3: real	0m9.753s
+root@172.17.0.2: real	0m9.753s
+
+root@172.17.0.3: real	0m10.033s
+root@172.17.0.4: real	0m9.847s
+root@172.17.0.2: real	0m10.033s
+
+root@172.17.0.4: real	0m9.836s
+root@172.17.0.3: real	0m9.914s
+root@172.17.0.2: real	0m9.915s
+
+root@172.17.0.4: real	0m9.828s
+root@172.17.0.3: real	0m9.828s
+root@172.17.0.2: real	0m9.828s
+
+root@172.17.0.3: real	0m9.966s
+root@172.17.0.4: real	0m9.804s
+root@172.17.0.2: real	0m9.966s
+
+root@172.17.0.4: real	0m10.064s
+root@172.17.0.3: real	0m10.064s
+root@172.17.0.2: real	0m10.064s
+
+root@172.17.0.4: real	0m10.062s
+root@172.17.0.3: real	0m10.394s
+root@172.17.0.2: real	0m10.394s
+
+root@172.17.0.2: real	0m10.182s
+root@172.17.0.3: real	0m10.183s
+root@172.17.0.4: real	0m9.938s
+
+
+
+
+
+===========file_512M=========
+root@172.17.0.3: real	0m20.340s
+root@172.17.0.2: real	0m20.340s
+root@172.17.0.4: real	0m20.188s
+
+root@172.17.0.2: real	0m19.864s
+root@172.17.0.4: real	0m19.535s
+root@172.17.0.3: real	0m19.863s
+
+root@172.17.0.4: real	0m19.252s
+root@172.17.0.2: real	0m19.571s
+root@172.17.0.3: real	0m19.571s
+
+root@172.17.0.3: real	0m19.419s
+root@172.17.0.2: real	0m19.419s
+root@172.17.0.4: real	0m19.081s
+
+root@172.17.0.4: real	0m19.033s
+root@172.17.0.2: real	0m19.335s
+root@172.17.0.3: real	0m19.335s
+
+root@172.17.0.2: real	0m19.725s
+root@172.17.0.4: real	0m19.386s
+root@172.17.0.3: real	0m19.725s
+
+root@172.17.0.4: real	0m19.812s
+root@172.17.0.3: real	0m19.825s
+root@172.17.0.2: real	0m19.825s
+
+root@172.17.0.4: real	0m19.144s
+root@172.17.0.3: real	0m19.573s
+root@172.17.0.2: real	0m19.573s
+
+root@172.17.0.2: real	0m19.323s
+root@172.17.0.4: real	0m19.036s
+root@172.17.0.3: real	0m19.323s
+
+root@172.17.0.2: real	0m19.314s
+root@172.17.0.3: real	0m19.314s
+root@172.17.0.4: real	0m19.013s
+
+root@172.17.0.3: real	0m19.413s
+root@172.17.0.4: real	0m19.028s
+root@172.17.0.2: real	0m19.413s
+
+root@172.17.0.3: real	0m18.829s
+root@172.17.0.4: real	0m18.509s
+root@172.17.0.2: real	0m18.829s
+
+root@172.17.0.2: real	0m18.811s
+root@172.17.0.4: real	0m18.731s
+root@172.17.0.3: real	0m18.811s
+
+root@172.17.0.2: real	0m18.519s
+root@172.17.0.4: real	0m18.238s
+root@172.17.0.3: real	0m18.519s
+
+root@172.17.0.3: real	0m18.718s
+root@172.17.0.4: real	0m18.406s
+root@172.17.0.2: real	0m18.718s
+
+root@172.17.0.3: real	0m18.833s
+root@172.17.0.2: real	0m18.834s
+root@172.17.0.4: real	0m18.833s
+
+root@172.17.0.3: real	0m18.740s
+root@172.17.0.4: real	0m18.478s
+root@172.17.0.2: real	0m18.739s
+
+root@172.17.0.3: real	0m18.898s
+root@172.17.0.2: real	0m18.898s
+root@172.17.0.4: real	0m18.898s
+
+root@172.17.0.3: real	0m18.687s
+root@172.17.0.4: real	0m18.393s
+root@172.17.0.2: real	0m18.687s
+
+root@172.17.0.2: real	0m18.538s
+root@172.17.0.4: real	0m18.226s
+root@172.17.0.3: real	0m18.538s
+
+
+
+
+
+===========file_1024M=========
+root@172.17.0.4: real	0m37.306s
+root@172.17.0.3: real	0m37.572s
+root@172.17.0.2: real	0m37.572s
+
+root@172.17.0.4: real	0m38.031s
+root@172.17.0.3: real	0m38.175s
+root@172.17.0.2: real	0m38.175s
+
+root@172.17.0.3: real	0m37.885s
+root@172.17.0.4: real	0m37.885s
+root@172.17.0.2: real	0m37.885s
+
+root@172.17.0.4: real	0m37.130s
+root@172.17.0.2: real	0m37.388s
+root@172.17.0.3: real	0m37.388s
+
+root@172.17.0.4: real	0m37.145s
+root@172.17.0.2: real	0m37.516s
+root@172.17.0.3: real	0m37.516s
+
+root@172.17.0.4: real	0m38.010s
+root@172.17.0.3: real	0m38.286s
+root@172.17.0.2: real	0m38.286s
+
+root@172.17.0.3: real	0m38.647s
+root@172.17.0.2: real	0m38.647s
+root@172.17.0.4: real	0m38.407s
+
+root@172.17.0.4: real	0m38.142s
+root@172.17.0.3: real	0m38.142s
+root@172.17.0.2: real	0m38.142s
+
+root@172.17.0.2: real	0m38.170s
+root@172.17.0.4: real	0m37.895s
+root@172.17.0.3: real	0m38.170s
+
+root@172.17.0.3: real	0m38.647s
+root@172.17.0.2: real	0m38.648s
+root@172.17.0.4: real	0m38.392s
+
+root@172.17.0.4: real	0m38.485s
+root@172.17.0.3: real	0m38.533s
+root@172.17.0.2: real	0m38.534s
+
+root@172.17.0.3: real	0m38.629s
+root@172.17.0.2: real	0m38.629s
+root@172.17.0.4: real	0m38.603s
+
+root@172.17.0.2: real	0m37.124s
+root@172.17.0.4: real	0m36.698s
+root@172.17.0.3: real	0m37.125s
+
+root@172.17.0.4: real	0m36.341s
+root@172.17.0.2: real	0m36.762s
+root@172.17.0.3: real	0m36.762s
+
+root@172.17.0.4: real	0m37.373s
+root@172.17.0.2: real	0m37.373s
+root@172.17.0.3: real	0m37.373s
+
+root@172.17.0.2: real	0m37.918s
+root@172.17.0.3: real	0m37.918s
+root@172.17.0.4: real	0m37.549s
+
+root@172.17.0.3: real	0m37.696s
+root@172.17.0.4: real	0m37.580s
+root@172.17.0.2: real	0m37.696s
+
+root@172.17.0.3: real	0m37.057s
+root@172.17.0.4: real	0m36.635s
+root@172.17.0.2: real	0m37.056s
+
+root@172.17.0.2: real	0m37.642s
+root@172.17.0.3: real	0m37.642s
+root@172.17.0.4: real	0m37.347s
+
+root@172.17.0.2: real	0m37.770s
+root@172.17.0.3: real	0m37.770s
+root@172.17.0.4: real	0m37.770s
+
+
+
+
+
