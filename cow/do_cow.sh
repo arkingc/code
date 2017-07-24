@@ -12,8 +12,10 @@ sudo dmesg -c >> /dev/null #清空日志文件dmesg中的信息
 
 cache_clear
 
+sleep 5
+
 #time mussh -m 5 -b -H ip.txt -c "time dd=/dev/zero bs=1 count=1 >> file"
-pssh -h ip.txt time bash -c "dd=/dev/zero bs=1 count=1 >> file"
+pssh -h ip.txt -p 100 "dd if=/dev/zero bs=1 count=1 >> file"
 
 sudo dmesg -c > data #结果输出到data文件中
 

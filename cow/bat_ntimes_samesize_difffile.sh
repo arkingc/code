@@ -31,13 +31,16 @@ for j in $(seq 1 $test_times)
 do
     ./run_samesize_difffile.sh $ct_num $file_size #启动容器
 
-    sleep 15 #等15s
+    sleep 20
 
     sudo dmesg -c >> /dev/null #清空日志文件dmesg中的信息
     
     cache_clear #清缓存
 
-    pssh -h ip.txt bash -c "dd=/dev/zero bs=1 count=1 >> file"
+    sleep 5
+
+    pssh -h ip.txt -p 100 "dd if=/dev/zero bs=1 count=1 >> file"
+    #pssh -h ip.txt -p 100 bash -c "dd if=/dev/zero bs=1 count=1 >> file"
         
     sudo dmesg -c > data #结果输出到data文件中
 
@@ -48,6 +51,10 @@ do
     #加入分隔符
     #echo "-------------------------------" >> $result_file
     echo >> $result_file
+    
+    cache_clear
 
     ./rm_container.sh $ct_num #停止、删除容器
+
+    sleep 5
 done

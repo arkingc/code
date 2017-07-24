@@ -7,9 +7,9 @@ else
 fi
 
 size_array=("1M" "4M" "8M" "16M" "32M" "64M" "128M")
-num_array=(20 20 20 20 10 10 5)
+num_array=(30 20 10 5 5 3 3)
 
-for i in $(seq 2 7)
+for i in $(seq 1 1)
 do
     declare -i index=$i-1
     file_size=${size_array[$index]}
@@ -17,5 +17,5 @@ do
 
     ./bat_ntimes_samesize_difffile.sh $ct_num $file_size 20
 
-    mv result res/result_${file_size}_${ct_num}_cx_${scheduler_name}
+    mv result res/result_${file_size}_${ct_num}_bx_${scheduler_name}_ssd
 done
