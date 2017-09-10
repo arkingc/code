@@ -12,13 +12,13 @@ do
     declare -i ip=$i+1
 
     if [ $i -eq 1 ];then
-        docker run -td --name ct$i cow/ssh:1024M1 /bin/bash
+        docker run -td --name ct$i -v ~/bin:/root/bin cow/ssh:1024M1 /bin/bash
         echo "root@172.17.0.$ip" > ip.txt  
     elif [ $i -eq 2 ];then
-        docker run -td --name ct$i cow/ssh:256M1 /bin/bash
+        docker run -td --name ct$i -v ~/bin:/root/bin cow/ssh:256M1 /bin/bash
         echo "root@172.17.0.$ip" >> ip.txt
     else
-        docker run -td --name ct$i cow/ssh:64M1 /bin/bash
+        docker run -td --name ct$i -v ~/bin:/root/bin cow/ssh:64M1 /bin/bash
         echo "root@172.17.0.$ip" >> ip.txt
     fi
 done
